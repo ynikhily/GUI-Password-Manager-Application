@@ -1,4 +1,6 @@
 # GUI-Password-Manager-Application
+<b>NOTE: Dimensions of the UI may vary from system to system</b></br>
+</br>
 DESCRIPTION:</br>
 -- This application is developed using tkinter library of Python.</br>
 -- This has been implemented along with possibly every sort of error handling.</br>
